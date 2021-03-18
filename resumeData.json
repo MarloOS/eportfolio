@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name":"Marlo Osborne-Subasic",
+    "occupation":"Information and Computer Systems Graduate",
+    "description":"Some of my favourite things are computers and learning new skills.",
+    "image":"profilepic.jpg",
+    "bio":"I like to make things. I went to school to learn programming so I could learn how to make more things. I'm most familiar with front-end and more visual projects, but I'm interested in anything that calls for coding.",
+    "contactmessage":"Please get in touch with me!",
+    "email": "m.osborne.subasic@gmail.com",
+    "phone": "250-514-3262",
+    "address":{
+      "street":"Dowler Pl.",
+      "city":"Victoria",
+      "state":"B.C.",
+      "zip": "V8T 4H5"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+
+
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/marlo-osborne-subasic/",
+        "className":"fa fa-linkedin"
+      }
+
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of the things I've learned in school and on my own.",
+    "education":[
+      {
+        "school":"Camosun College",
+        "degree":"Information and Computer Systems",
+        "graduated":"August 2020",
+        "description":"I learned about all the fundamentals of programming and much more here. Some of the languages/technologies I learned here: Java, Javascript, C++, C#, Python, Swift, SQL, Unity, React, AWS, Git, and more. I particularly liked working together with classmates to solve difficult programming problems. I also got on the Dean's Honour Roll."
+      }
+    ],
+    "work":[
+      {
+        "company":"Thrifty Foods",
+        "title":"Deli Guy",
+        "years":"September 2014 - August 2018",
+        "description":"I learned a lot of good customer service skills here, and how to cut an onion very efficiently. I had to memorize all sorts of codes and regulations in a very short amount of time in order to do the work more efficiently, and I'm told I was quite good at it."
+      },
+      {
+        "company":"Freelance",
+        "title":"3D artist",
+        "years": "November 2020 - Now",
+        "description":"Worked with Blender to make custom 3D character models/scenes for my discerning clients."
+      }
+    ],
+    "skills":[
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"Databases (SQL, DDL, DML, etc.)",
+        "level":"50%"
+      },
+      {
+        "name":"Unity",
+        "level":"60%"
+      },
+      {
+        "name":"Blender",
+        "level":"50%"
+      },
+      {
+        "name":"Adobe CS (Photoshop, Premiere, After Effects, etc.)",
+        "level":"70%"
+      },
+      {
+        "name":"AWS",
+        "level":"25%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Put in more effort than I expected anyone to!",
+        "user":"Chris Newstead - on a project I did for him in school"
+      },
+      {
+        "text":"Unnecessarily humble.",
+        "user":"Nick Schuster"
+      }
+    ]
+  }
+}
