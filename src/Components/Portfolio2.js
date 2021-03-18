@@ -36,6 +36,12 @@ class Portfolio extends Component {
                   </a>
                 <div class="desc">A healer's page looked like this when clicked on. You could read about and leave a review on them, which would update their rating.</div>
                 </div>
+                <div class="gallery">
+                  <a target="_blank" href="./images/gwaterlava.png">
+                    <img src="./images/gwaterlava.png" alt="Lava and water materials" width="600" height="400"/>
+                  </a>
+                  <div class="desc">The water and lava materials were made in the Unity node graph.</div>
+                </div>
               </Container>
             
             <hr/>
