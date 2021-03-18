@@ -32,7 +32,7 @@ class Portfolio extends Component {
                 </div>
                 <div class="gallery">
                   <a target="_blank" href="./images/healerpage1.png">
-                    <img src="./images/healerpage.png" alt="Healer page screenshot" width="600" height="400"/>
+                    <img src="./images/healerpage1.png" alt="Healer page screenshot" width="600" height="400"/>
                   </a>
                 <div class="desc">A healer's page looked like this when clicked on. You could read about and leave a review on them, which would update their rating.</div>
                 </div>
