@@ -22,7 +22,7 @@ class Portfolio extends Component {
                   <a target="_blank" href="./images/homepage1.png">
                     <img src="./images/homepage1.png" alt="Website homepage screenshot" width="600" height="400"/>
                   </a>
-                  <div class="desc">This is the homepage of the site, what you see when you first enter while not logged in.</div>
+                  <div class="desc">This is the homepage of the site, what you see when you first enter before logging in.</div>
                 </div>
                 <div class="gallery">
                   <a target="_blank" href="./images/homepage2.png">
@@ -31,7 +31,7 @@ class Portfolio extends Component {
                 <div class="desc">Below was the list of available healers (users that made accounts specifying that they wanted to be listed as healers)</div>
                 </div>
                 <div class="gallery">
-                  <a target="_blank" href="./images/healerpage.png">
+                  <a target="_blank" href="./images/healerpage1.png">
                     <img src="./images/healerpage.png" alt="Healer page screenshot" width="600" height="400"/>
                   </a>
                 <div class="desc">A healer's page looked like this when clicked on. You could read about and leave a review on them, which would update their rating.</div>
