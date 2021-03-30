@@ -40,7 +40,7 @@ class Contact extends Component {
                         {street} <br />
                         {city}, {state} {zip}<br />
                         <span>{phone}</span> <br />
-                        {email}<br />
+                        <a href="mailto:m.osborne.subasic@gmail.com">{email}</a><br />
                      </p>
                   </div>
 
