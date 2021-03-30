@@ -9,7 +9,7 @@
     "email": "m.osborne.subasic@gmail.com",
     "phone": "250-514-3262",
     "address":{
-      "street":"Dowler Pl.",
+      "street":"2329 Dowler Pl.",
       "city":"Victoria",
       "state":"B.C.",
       "zip": "V8T 4H5"
@@ -36,7 +36,7 @@
         "school":"Camosun College",
         "degree":"Information and Computer Systems",
         "graduated":"August 2020",
-        "description":"I learned about all the fundamentals of programming and much more here. Some of the languages/technologies I learned here: Java, Javascript, C++, C#, Python, Swift, SQL, Unity, React, AWS, Git, and more. I particularly liked working together with classmates to solve difficult programming problems. I also got on the Dean's Honour Roll."
+        "description":"I learned about all the fundamentals of programming and much more. Some of the languages/technologies I learned: Java, Javascript, C++, C#, Python, Swift, SQL, Unity, React, AWS, Git, and more. I particularly liked working together with classmates to solve difficult programming problems. I also got on the Dean's Honour Roll."
       }
     ],
     "work":[
@@ -44,7 +44,7 @@
         "company":"Thrifty Foods",
         "title":"Deli Guy",
         "years":"September 2014 - August 2018",
-        "description":"I learned a lot of good customer service skills here, and how to cut an onion very efficiently. I had to memorize all sorts of codes and regulations in a very short amount of time in order to do the work more efficiently, and I'm told I was quite good at it."
+        "description":"I learned a lot of good customer service skills, and how to cut an onion very efficiently. I had to memorize all sorts of codes and regulations in a very short amount of time in order to do the work more efficiently, and I'm told I was quite good at it."
       },
       {
         "company":"Freelance",
@@ -75,7 +75,7 @@
         "level":"50%"
       },
       {
-        "name":"Adobe CS (Photoshop, Premiere, After Effects, etc.)",
+        "name":"Adobe CS (Photoshop, Premiere, AE, etc.)",
         "level":"70%"
       },
       {
